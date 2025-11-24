@@ -1,0 +1,2 @@
+Power BI project in AI Data Analyst Bootcamp from workearly.gr
+This project aims to analyze data related to the COVID-19 pandemic using Power BI as a tool for data visualization and analysis. Specifically this project includes tasks involving the creation of dynamic measures, the use of different types of charts and the mapping of data in order to gain a deeper understanding of total, active, and severe cases, recoveries and deaths.
